@@ -32,3 +32,7 @@ rdd1= sc.parallelize(data)
 
 
 print(rdd1.collect())
+
+
+for i in data:
+               print(i+1)
