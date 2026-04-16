@@ -35,4 +35,4 @@ print(rdd1.collect())
 
 
 for i in data:
-               print(i+1)
+               print(i+2)
